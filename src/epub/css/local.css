@@ -13,3 +13,20 @@ footer{
 	font-variant: small-caps;
 }
 /* end of letters */
+
+/* location-specific */
+#chapter-40 blockquote header {
+	font-variant: small-caps;
+	margin-bottom: 1em;
+	text-align: center;
+}
+
+#chapter-40 blockquote header p:first-child{
+	text-align: right;
+}
+
+#chapter-40 blockquote header p:last-child{
+	font-size: 1.5em;
+	text-transform: lowercase;
+}
+/* end of location-specific */
