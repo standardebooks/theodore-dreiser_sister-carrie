@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-15.xhtml">
+		<ignore>
+			<code>t-036</code>
+			<reason>False positive: the text has correctly paired double- and single-quotes.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
