@@ -46,14 +46,21 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008107168</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">33</meta>
+		<meta id="collection-2" property="belongs-to-collection">Modern Library’s Best 100 Novels</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">33</meta>
+		<dc:description id="description">A young woman moves to Chicago to chase her dream of being somebody.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Caroline Meeber, known as Sister Carrie to her family, moves to Chicago at the tender age of eighteen to try to make something of herself. Living with her sister and brother-in-law, she quickly finds that life, and work, are hard in the big city. She soon takes up with a travelling salesman she met on the train into town. Months later her eye is turned by one of the salesman’s acquaintances, George Hurstwood, and vice-versa. A series of events lead Carrie and Hurstwood to New York City, where both struggle to live out the aspirations that brought them there.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/theodore-dreiser"&gt;Theodore Dreiser&lt;/a&gt; was one of the earliest naturalist writers, but he wrote &lt;i&gt;Sister Carrie&lt;/i&gt; while the United States was still very Victorian in its morals. The book therefore caused a stir from the beginning: Carrie Meeber was clearly, even in the disguised language of the time, a sexually active unmarried female who did not suffer for such indiscretion to the extent considered necessary at the time. Dreiser’s rough language in the novel merely added to the reaction. The first printing sold only 456 copies in two years; it was to be another five years before Dreiser could convince another publisher to carry the book. Today it is considered a classic and one of the “greatest of all American urban novels.”&lt;/p&gt;
+			&lt;p&gt;The text of &lt;i&gt;Sister Carrie&lt;/i&gt; was unchanged for almost seventy-five years when, in 1981, the University of Pennsylvania Press published a new version with 36,000 words restored. The edition was not without controversy: the cuts were originally made before the first printing at the suggestion of Dreiser’s wife, or his friend Arthur Henry, and Dreiser had approved all of them. Although the Pennsylvania Edition, as it is called, made a good case for restoring the changes, it is the 1907 text that remains the most widely available today, and it is that text this edition uses.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5267</dc:source>
 		<dc:source>https://archive.org/details/ost-english-sistercarrie00dreiiala</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sister_Carrie</meta>
