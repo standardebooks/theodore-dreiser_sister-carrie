@@ -1,6 +1,5 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
-@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 /* letters */
 footer{
@@ -27,5 +26,9 @@ footer{
 #chapter-40 blockquote header p:last-child{
 	font-size: 1.5em;
 	text-transform: lowercase;
+}
+
+#chapter-40 blockquote footer p:last-child{
+	font-style: italic;
 }
 /* end of location-specific */
