@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-15.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-019</code>
 			<reason>False positive: the text has correctly paired double- and single-quotes.</reason>
 		</ignore>
 	</file>
