@@ -24,7 +24,7 @@ footer{
 }
 
 #chapter-40 blockquote header p:last-child{
-	font-size: 1.5em;
+	font-size: larger;
 	text-transform: lowercase;
 }
 
