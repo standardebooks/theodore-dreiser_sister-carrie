@@ -30,11 +30,11 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Sister Carrie</dc:title>
 		<meta property="file-as" refines="#title">Sister Carrie</meta>
-		<dc:subject id="subject-1">New York (N.Y.) -- Fiction</dc:subject>
+		<dc:subject id="subject-1">New York (N.Y.)--Fiction</dc:subject>
 		<dc:subject id="subject-2">Didactic fiction</dc:subject>
-		<dc:subject id="subject-3">Young women -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Chicago (Ill.) -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Mistresses -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Young women--Fiction</dc:subject>
+		<dc:subject id="subject-4">Chicago (Ill.)--Fiction</dc:subject>
+		<dc:subject id="subject-5">Mistresses--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108377</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
